@@ -11,7 +11,7 @@ module.exports = {
      * Informations à propos de l'API
      */
     apipassword: '',
-    serverurl: '',
+    serverurl: '7029612088:AAGnq8qPtNgBFzuvmq4IswtuGwZUNfu5CdY',
 
     /**
      * Informations à propos du webhook discord
